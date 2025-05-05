@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kaaost
+-  I'm Junior Devoloper
+-  I am a student and I study at KOÜ.
+-  Projects coming soon...
